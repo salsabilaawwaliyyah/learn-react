@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 import Navbar from "./components/navbar"
-
+import Menubar from "./components/Menubar"
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -14,6 +14,7 @@ function App() {
     // </h1>
     <div className= 'bg-gray-100 min-j-scream'>
           <Navbar />
+          <Menubar />
     </div>
   )
 }
