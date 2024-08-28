@@ -12,7 +12,7 @@ function App() {
     // <h1 className="text-3xl font-bold underline">
     //   Hai Love!!
     // </h1>
-    <div className= 'bg-gray-100 min-j-scream'>
+    <div className= 'bg-gray-100 min-h-screen'>
           <Navbar />
           <Menubar />
     </div>
